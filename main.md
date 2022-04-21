@@ -2,7 +2,7 @@
 
 ## はじめに
 
-今回の導入教育では python の基本的な構文や文法について学習する．開発環境は GoogleColaboratory を使用する．GoogleColaboratory の使い方は「 Google colab.pdf 」を参照してください．
+今回の導入教育では python の基本的な構文や文法について学習する．開発環境は GoogleColaboratory(Colab) を使用する．Colab の使い方は [Python実行環境セットアップ](#付録) を参照してください．
 
 ## 基礎
 
